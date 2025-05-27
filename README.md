@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on CubeSats
-- ⚡ Fun fact: In terms of fun facts there is no fun fact :(
+In terms of fun facts there is no fun fact :(
 <!--
 **wrong-formatt/wrong-formatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
